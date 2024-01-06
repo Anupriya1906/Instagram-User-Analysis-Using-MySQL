@@ -1,1 +1,1 @@
-# Instagram-User-Analysis-Using-MySQL
+# Instagram-User-Data-Analysis-Using-MySQL
