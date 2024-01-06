@@ -9,8 +9,9 @@ Understanding Instagram as a social platform for photo and video sharing, influe
 ## Key Business Queries
 A) Marketing : The marketing team wants to launch some campaigns since they need help with the following 
 1. Rewarding Most Loyal Users : People who have been using the platform for the longest time.
+
    Q? - Find the 5 oldest users of the Instagram from the database provided.
-2. 
+3. 
 
 
 
