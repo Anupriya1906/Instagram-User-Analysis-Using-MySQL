@@ -23,11 +23,12 @@ A) Marketing : The marketing team wants to launch some campaigns since they need
 5. Launch AD Campaign : The team wants to know , which day would be the best day to launch ADs.
 
    Q5? - What day of the week do most users register on ? Provide insights on when to schedule an AD campaign
+   
 B) Investor Metrics : Investors want to know if instagram is performing well and is not becoming redundant like Facebook , they want to assess the app on the following grounds
-6. User Engagement : Are users still as active and post on Instagram or they are making fewer posts.
+7. User Engagement : Are users still as active and post on Instagram or they are making fewer posts.
 
    Q6? - Provide how many times does average user posts on Instagram. Also , provide the total number of photos on Instagram /  total no. of users
-7. Bots & Fake Accounts : The investors wants to know if the platform is crowded with fake and dummy accounts.
+8. Bots & Fake Accounts : The investors wants to know if the platform is crowded with fake and dummy accounts.
 
    Q7? - Provide data on users (bots) who have liked every single photo on the site (since any normal user would not be able to do this)
 
